@@ -1,0 +1,23 @@
+{
+  "name": "flower-app",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "halo",
+  "license": "ISC",
+  "description": "selling flowers",
+  "dependencies": {
+    "@vant/weapp": "^1.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/han0123/weixin_flower.git"
+  },
+  "bugs": {
+    "url": "https://github.com/han0123/weixin_flower/issues"
+  },
+  "homepage": "https://github.com/han0123/weixin_flower#readme"
+}
